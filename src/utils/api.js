@@ -1,4 +1,4 @@
-const API_ROUTE = import.meta.env.VITE_API_ROUTE;
+const API_ROUTE = import.meta.env.VITE_API_URL;
 
 
 export default async function (route, body = {}, method = 'GET') {
