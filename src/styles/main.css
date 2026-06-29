@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@import "./fonts.css";
+
+@utility font-love {
+    font-family: 'Caveat', cursive;
+}
+
+@utility font-paper {
+    font-family: 'Special Elite', serif;
+}
+
+@utility font-classic {
+    font-family: 'Playfair Display', serif;
+}
+
+@utility font-royal {
+    font-family: 'Cinzel', serif;
+}
